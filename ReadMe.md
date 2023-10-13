@@ -1,4 +1,4 @@
-![Dotnet Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwakeupandcode.com%2Fcsharp-resources%2F&psig=AOvVaw10tPsblpPFaik0b44i3lno&ust=1697280317030000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCIrIXs8oEDFQAAAAAdAAAAABAE)
+![Dotnet Image](https://wakeupandcode.com/wp-content/uploads/2019/03/C.NET_-1024x384-1.png)
 
 # Hello, I'm Makini 👋
 
