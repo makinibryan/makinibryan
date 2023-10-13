@@ -6,7 +6,7 @@ I'm a passionate software developer with 3+ years of experience in the software 
 
 ## 🔧 Skills
 
-- **Programming Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white), Java, JavaScript, ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- # Programming Languages: ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white), Java, JavaScript, ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - **Frameworks:** .NET, ASP.NET, Angular, Blazor
 - **Cloud Platforms:** Azure, AWS, Google Cloud
 - **Tools & Technologies:** Git, Docker, RESTful APIs, SQL, NoSQL
