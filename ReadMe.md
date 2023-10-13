@@ -31,7 +31,7 @@ I'm a passionate software developer with 3+ years of experience in the software 
 
 - Spearheaded the development of the Dakes Healthcare Recruitment Platform, a dynamic and user-friendly platform connecting healthcare professionals with opportunities in the industry.
 - Technologies used: ASP.NET, Angular, RESTful APIs, Azure DevOps, Azure cloud, Git, Azure, Clean Architecture
-- [[Link to the project if it's hosted online]](https://dakeshealthcare.com/)
+- [Official Website](https://dakeshealthcare.com/)
 
 
 ## 🌟 Achievements
