@@ -1,6 +1,6 @@
 ![Dotnet Image](https://wakeupandcode.com/wp-content/uploads/2019/03/C.NET_-1024x384-1.png)
 
-# Hello, I'm Makini 👋
+# Welcome to my Profile 👋
 
 I'm a passionate software developer with 3+ years of experience in the software industry. I thrive on turning ideas into functional, user-friendly, and efficient software solutions. 
 
